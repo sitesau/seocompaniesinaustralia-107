@@ -1,0 +1,22 @@
+{
+  "wheel_id": 412,
+  "structure": "umbrella",
+  "slug": "seocompaniesinaustralia-107",
+  "project": "seo-companies-australia-faq-67adeeb2a6668af2d7cc0cec1ebddc45a66",
+  "parent_t1_ref": "seocompaniesinaustralia-155",
+  "node_role": "feeder",
+  "money_target": "seocompaniesinaustralia.com.au",
+  "primary_kw": "seo companies australia faq",
+  "intended_url": "https://sitesau.github.io/seocompaniesinaustralia-107/",
+  "tier": "T2",
+  "writeback_nonce": "a04fcdc1aae6f511",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/seo-companies-australia-0d6f39e10a3c53c349d5692a7be0a900cb7d/",
+      "anchor": "Seo Companies Australia: Comparing SEO Companies",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
